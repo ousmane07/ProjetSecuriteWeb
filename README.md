@@ -1,4 +1,7 @@
 # ProjetSecuriteWeb
+
+Ouvrez le fichier en mode edit pour pouvoir voir les différentes parties
+
 projet maven sécurité web
 
 Explication détaillée du projet
